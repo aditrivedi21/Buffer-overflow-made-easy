@@ -1,0 +1,14 @@
+First see TCM and infock
+
+than to solve this use help of this so after u complete this articles you will get the basic idea of bufferoverflow : https://basicpentesting.blogspot.com/2020/09/buffer-overflow-prep-overflow1-tryhackme.html
+
+
+make notes and done.
+
+
+
+Check scripts in buffer_scripts for each steps in bufferoverflow 
+
+Steps of buffer overflow in one image : 
+	https://raw.githubusercontent.com/d1zzy666/thm-bof/master/BoF.pdf
+Done
