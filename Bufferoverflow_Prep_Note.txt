@@ -1,6 +1,8 @@
 First see TCM and infock
 
-than to solve this use help of this so after u complete this articles you will get the basic idea of bufferoverflow : https://basicpentesting.blogspot.com/2020/09/buffer-overflow-prep-overflow1-tryhackme.html
+than to solve this use help of this so after u complete this articles you will get the basic idea of bufferoverflow : 
+
+https://basicpentesting.blogspot.com/2020/09/buffer-overflow-prep-overflow1-tryhackme.html
 
 
 make notes and done.
