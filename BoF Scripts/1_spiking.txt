@@ -1,0 +1,3 @@
+python -c "print('A'*5000)"
+
+send to program if program crashed than that command is vularnable.

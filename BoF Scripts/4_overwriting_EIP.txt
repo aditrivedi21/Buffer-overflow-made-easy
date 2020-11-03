@@ -1,0 +1,15 @@
+from finding offset we got excate match number 
+
+so example match number is 2123
+
+SO, next 4 bytes are of EIP's [2124-2127]
+
+
+=> Verify the match number 
+
+
+
+python -c "print('A'*2123 + 'B'*4)"
+	
+		send this string to program and check EIP should be BBBB '42 42 42 42'
+	
